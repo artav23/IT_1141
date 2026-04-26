@@ -1,3 +1,3 @@
-# CUS1172_avery
+# IT 1141
 
-Repository for CUS1172 classwork.
+Repository for IT 1141 final project.
